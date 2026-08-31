@@ -1,2 +1,2 @@
 # Datalorian
-De volta aos estudos (The data Science version) 
+De volta aos estudos (The data Science version in FIAP) 
