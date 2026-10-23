@@ -1,0 +1,286 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0713967F-EE6E-0685-C94A-C40D71AEF01F" name="crimes">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:43:41 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="cisp" id="141F8163-73D6-BC82-A1A0-BF43303D42C7">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:44:42 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="mes_ano" id="2662792D-6F14-695E-0AB0-B8A18AD2D78E">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:45:12 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="municipio" id="9504AC3E-5166-F9D3-84E5-5CAC6C98A623">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:45:24 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="mcirc" id="8C76B836-09DB-EE72-E3F1-A6DB15D37710">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:49:39 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="regiao" id="2E3022AB-4A46-AA7E-F556-0F3F3FA8A4E3">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:50:45 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_transeunte" id="3F236F65-FDB5-6612-9FED-CC4C53D84E7C">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:50:58 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_celular" id="04C28B19-5051-8A12-0187-8034A05E4965">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:51:25 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_em_coletivo" id="D7838F0C-8C24-AE6E-07F9-76FE952CCE1E">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:51:38 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_rua" id="77B2B6EC-2921-D635-CBDF-CBDA30191277">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:52:43 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_veiculo" id="0D661216-D5A5-8C82-DCA6-1D884EC34FAA">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:52:52 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_carga" id="12856612-63EA-9E7E-A0B0-316B286F5F1C">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:52:59 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_comercio" id="DAF3DF87-ABF6-E3B8-8248-F4E28610171F">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:54:33 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_residencia" id="64C45EEC-DD21-FD53-27B7-C0FE2D0938CE">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:54:37 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_banco" id="2A6AF383-1045-DF0D-B3BE-418100392BB5">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:54:43 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_conducao_saque" id="D2DE5452-3925-4E42-1397-1716FA54D2AC">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:54:48 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_apos_saque" id="2C2082AC-4F6C-B791-1607-9BBACEC3ACC7">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:55:00 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="roubo_bicicleta" id="4BA59646-5245-4EDE-A49E-0E5E3980FC90">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:55:05 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="outros_roubos" id="6DC5CC8F-A399-4A49-B341-D15E78EFB919">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:55:10 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="furto_veiculos" id="F270FEE1-98AB-925F-1317-3B0AEF7E9ACE">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:55:15 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="furto_celular" id="125D6155-B793-AFD9-138E-B5797E79A20F">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:11:55 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="furto_bicicleta" id="2C368315-EAB8-7C51-15D5-CD52359ED6B4">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:12:19 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="outros_furtos" id="3EA4AF31-8988-1EFA-B617-7E30B906EF8D">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:12:30 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id" id="010B0F89-08E7-EBFB-7F92-C18084CC1F0D">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:33:34 UTC</createdTime>
+<generatorID>4AF2B43D-EBEA-EFC9-4BB8-B3B456F4DA5D</generatorID>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<referedAttribute>413D35E5-8AE3-B92E-CA39-D142BE493723</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="0911AA7F-2B9B-6F73-D423-47C7829283E6" name="tb_risk PK">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 21:45:09 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>141F8163-73D6-BC82-A1A0-BF43303D42C7</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

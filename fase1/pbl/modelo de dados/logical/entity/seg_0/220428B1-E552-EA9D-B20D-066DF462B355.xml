@@ -1,0 +1,143 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="220428B1-E552-EA9D-B20D-066DF462B355" name="risco">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:33:59 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id" id="42E4E511-A7F7-95E5-D27E-E3AA4E2C0854">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:34:20 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_usuario" id="0CA69CA7-ED5B-2B3D-016E-A0160AD8C9D6">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:34:35 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_trajeto" id="4100CCC2-8985-30E4-8CA3-2ECA1C09707C">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:34:29 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="data_criacao" id="60CCE033-8FF2-7F7E-F659-273FB4C6B4E2">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:34:58 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="data" id="D045A2E9-83FB-C1A3-8C58-7F75B22A117B">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:35:08 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="hora" id="A86103AC-5899-BE20-6165-090AD28174EE">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:35:14 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="risco_roubo" id="60D79CB1-4876-EF65-2BCC-E5726E5C2227">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:35:17 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="risco_furto" id="512CEACB-A9B1-C3DA-B962-161D9140BC17">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:37:00 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="recomendacao" id="3E632E9A-2533-5067-966A-691E43130D7B">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:37:12 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cisp" id="BDE8C1BC-D206-96AE-8AB9-6BB8669ED0FF">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:41:20 UTC</createdTime>
+<generatorID>73772E84-DC93-CA7D-9229-ECE8841C9684</generatorID>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<referedAttribute>141F8163-73D6-BC82-A1A0-BF43303D42C7</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="0E6A537C-DB7F-F6EF-81ED-B918050533D4" name="risco PK">
+<createdBy>petri</createdBy>
+<createdTime>2026-09-16 22:39:51 UTC</createdTime>
+<ownerDesignName>modelo de dados </ownerDesignName>
+<engineerTo>
+<item key="B258BA0D-76F4-B32D-8F73-B6243FFA9C9D" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>42E4E511-A7F7-95E5-D27E-E3AA4E2C0854</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>
