@@ -13,7 +13,7 @@
 
 ## 🚀 Nossa jornada
 
-Somos os **Datalorian**, um grupo de estudantes do curso de **Ciência de Dados da FIAP ON**. Nossa jornada acadêmica começou em **julho de 2026**, quando decidimos explorar juntos o vasto universo dos dados, da tecnologia e da inteligência artificial.
+Somos o **Datalorian**, um grupo de estudantes do curso de **Ciência de Dados da FIAP ON**. Nossa jornada acadêmica começou em **julho de 2026**, quando decidimos explorar juntos o vasto universo dos dados, da tecnologia e da inteligência artificial.
 
 Nossa tripulação começou com **quatro integrantes**. Porém, ao longo da missão, **um deles abandonou a Força e seguiu seu próprio caminho pela galáxia**. Hoje, seguimos em três, firmes no nosso credo: aprender, colaborar e entregar cada missão com excelência.
 
@@ -46,13 +46,13 @@ A estrutura será atualizada conforme novas atividades forem realizadas.
 
 ## 👥 A tripulação
 
-Atualmente, nossa equipe conta com **três Datalorians**.
+Atualmente, nossa equipe conta com **três tripulantes**.
 
 | Integrante | GitHub |
-|---|---|
-| Datalorian 01 | A definir |
-| Datalorian 02 | A definir |
-| Datalorian 03 | A definir |
+|------------|--------|
+| Ítala      |        | 
+| Gustavo    |        |
+| Petrick    |        |
 
 ## 🧠 Tecnologias em nossa jornada
 
@@ -66,6 +66,6 @@ Ao longo do curso, exploraremos ferramentas e conceitos como **Python, SQL, esta
 
 **DATALORIAN · FIAP ON · Turma iniciada em julho de 2026**
 
-*Que a Força dos Dados esteja com você.* ✨
+*Que a Força esteja com você.* ✨
 
 </div>
