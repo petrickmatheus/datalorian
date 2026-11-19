@@ -388,6 +388,177 @@
 56349;Baixa Umidade;Perigo Potencial;1;2026-11-08 10:00:00;2026-11-08 19:00:00;2026-11-08;Sul Cearense;2307;CE;Nordeste
 56349;Baixa Umidade;Perigo Potencial;1;2026-11-08 10:00:00;2026-11-08 19:00:00;2026-11-08;São Francisco Pernambucano;2602;PE;Nordeste
 56349;Baixa Umidade;Perigo Potencial;1;2026-11-08 10:00:00;2026-11-08 19:00:00;2026-11-08;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araraquara;3505;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araçatuba;3503;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Assis;3510;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Bauru;3504;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Campinas;3507;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Campo das Vertentes;3111;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Central Espírito-santense;3203;ES;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Central Mineira;3106;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Amazonense;1303;AM;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Fluminense;3303;RJ;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Goiano;5203;GO;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Maranhense;2103;MA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Norte Baiano;2903;BA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Ocidental Paranaense;4102;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Oriental Paranaense;4105;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Sul Baiano;2906;BA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Norte Piauiense;2202;PI;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Paranaense;4108;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Distrito Federal;5301;DF;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Extremo Oeste Baiano;2901;BA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Grande Florianópolis;4205;SC;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Itapetininga;3511;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Jequitinhonha;3103;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Goiano;5204;GO;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Maranhense;2104;MA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Rondoniense;1102;RO;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Litoral Sul Paulista;3514;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Marília;3509;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Curitiba;4110;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Porto Alegre;4305;RS;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Nordeste Rio-grandense;4302;RS;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Espírito-santense;3201;ES;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Fluminense;3301;RJ;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Goiano;5201;GO;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Paranaense;4101;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Rio-grandense;4301;RS;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste de Minas;3101;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Catarinense;4202;SC;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Central Paranaense;4103;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Fluminense;3302;RJ;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Goiano;5202;GO;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Mato-grossense;5101;MT;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Piauiense;2201;PI;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Pioneiro Paranaense;4104;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte de Minas;3102;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Ocidental do Tocantins;1701;TO;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Catarinense;4201;SC;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Maranhense;2102;MA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Paranaense;4106;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste de Minas;3109;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oriental do Tocantins;1702;TO;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Piracicaba;3506;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Presidente Prudente;3508;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Ribeirão Preto;3502;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Serrana;4203;SC;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paraense;1506;PA;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paranaense;4109;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Piauiense;2204;PI;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Mato-grossense;5103;MT;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paraense;1505;PA;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paranaense;4107;PR;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Piauiense;2203;PI;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Amazonense;1304;AM;Norte
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Baiano;2907;BA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Catarinense;4206;SC;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Espírito-santense;3204;ES;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Fluminense;3305;RJ;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Goiano;5205;GO;Centro-Oeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Maranhense;2105;MA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;São Francisco Pernambucano;2602;PE;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;São José do Rio Preto;3501;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Itajaí;4204;SC;Sul
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Mucuri;3104;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Paraíba Paulista;3513;SP;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Rio Doce;3108;MG;Sudeste
+56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Zona da Mata;3112;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Araraquara;3505;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Araçatuba;3503;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Assis;3510;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Baixadas;3304;RJ;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Bauru;3504;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Campinas;3507;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Campo das Vertentes;3111;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Central Espírito-santense;3203;ES;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Central Mineira;3106;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Fluminense;3303;RJ;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Goiano;5203;GO;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Norte Baiano;2903;BA;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Paranaense;4102;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Paranaense;4105;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Rio-grandense;4304;RS;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Sul Baiano;2906;BA;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Paranaense;4108;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Distrito Federal;5301;DF;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Extremo Oeste Baiano;2901;BA;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Grande Florianópolis;4205;SC;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Itapetininga;3511;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Jequitinhonha;3103;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Leste Goiano;5204;GO;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Litoral Sul Paulista;3514;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Macro Metropolitana Paulista;3512;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Marília;3509;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Curitiba;4110;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Porto Alegre;4305;RS;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de São Paulo;3515;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Nordeste Rio-grandense;4302;RS;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Espírito-santense;3201;ES;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Fluminense;3301;RJ;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Goiano;5201;GO;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Paranaense;4101;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Rio-grandense;4301;RS;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste de Minas;3101;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Catarinense;4202;SC;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Central Paranaense;4103;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Fluminense;3302;RJ;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Goiano;5202;GO;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Mato-grossense;5101;MT;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Pioneiro Paranaense;4104;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte de Minas;3102;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Ocidental do Tocantins;1701;TO;Norte
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste Catarinense;4201;SC;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste Paranaense;4106;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste de Minas;3109;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oriental do Tocantins;1702;TO;Norte
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Piracicaba;3506;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Presidente Prudente;3508;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Ribeirão Preto;3502;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Serrana;4203;SC;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paraense;1506;PA;Norte
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paranaense;4109;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paraense;1505;PA;Norte
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paranaense;4107;PR;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Piauiense;2203;PI;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Rio-grandense;4306;RS;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Baiano;2907;BA;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Catarinense;4206;SC;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Espírito-santense;3204;ES;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Fluminense;3305;RJ;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Goiano;5205;GO;Centro-Oeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Maranhense;2105;MA;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;São José do Rio Preto;3501;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Itajaí;4204;SC;Sul
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Mucuri;3104;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Paraíba Paulista;3513;SP;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Rio Doce;3108;MG;Sudeste
+56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Zona da Mata;3112;MG;Sudeste
 56320;Declínio de Temperatura;Perigo Potencial;1;2026-11-09 00:00:00;2026-11-09 23:59:00;2026-11-09;Baixadas;3304;RJ;Sudeste
 56320;Declínio de Temperatura;Perigo Potencial;1;2026-11-09 00:00:00;2026-11-09 23:59:00;2026-11-09;Campo das Vertentes;3111;MG;Sudeste
 56320;Declínio de Temperatura;Perigo Potencial;1;2026-11-09 00:00:00;2026-11-09 23:59:00;2026-11-09;Central Espírito-santense;3203;ES;Sudeste
@@ -2523,94 +2694,16 @@
 56443;Tempestade;Perigo Potencial;1;2026-11-18 09:00:00;2026-11-18 23:59:00;2026-11-18;Vale do Paraíba Paulista;3513;SP;Sudeste
 56443;Tempestade;Perigo Potencial;1;2026-11-18 09:00:00;2026-11-18 23:59:00;2026-11-18;Vale do Rio Doce;3108;MG;Sudeste
 56443;Tempestade;Perigo Potencial;1;2026-11-18 09:00:00;2026-11-18 23:59:00;2026-11-18;Zona da Mata;3112;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araraquara;3505;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araçatuba;3503;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Assis;3510;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Bauru;3504;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Campinas;3507;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Campo das Vertentes;3111;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Central Espírito-santense;3203;ES;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Central Mineira;3106;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Amazonense;1303;AM;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Fluminense;3303;RJ;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Goiano;5203;GO;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Maranhense;2103;MA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Norte Baiano;2903;BA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Ocidental Paranaense;4102;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Oriental Paranaense;4105;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Sul Baiano;2906;BA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Norte Piauiense;2202;PI;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Paranaense;4108;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Distrito Federal;5301;DF;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Extremo Oeste Baiano;2901;BA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Grande Florianópolis;4205;SC;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Itapetininga;3511;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Jequitinhonha;3103;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Goiano;5204;GO;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Maranhense;2104;MA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Rondoniense;1102;RO;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Litoral Norte Espírito-santense;3202;ES;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Litoral Sul Paulista;3514;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Marília;3509;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Belo Horizonte;3107;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Curitiba;4110;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Porto Alegre;4305;RS;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Nordeste Mato-grossense;5102;MT;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Nordeste Rio-grandense;4302;RS;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Espírito-santense;3201;ES;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Fluminense;3301;RJ;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Goiano;5201;GO;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Paranaense;4101;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Rio-grandense;4301;RS;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste de Minas;3101;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Catarinense;4202;SC;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Central Paranaense;4103;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Fluminense;3302;RJ;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Goiano;5202;GO;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Mato-grossense;5101;MT;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Piauiense;2201;PI;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Pioneiro Paranaense;4104;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte de Minas;3102;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Ocidental do Tocantins;1701;TO;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Catarinense;4201;SC;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Maranhense;2102;MA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Paranaense;4106;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste de Minas;3109;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oriental do Tocantins;1702;TO;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Piracicaba;3506;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Presidente Prudente;3508;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Ribeirão Preto;3502;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Serrana;4203;SC;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Mato-grossense;5105;MT;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paraense;1506;PA;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paranaense;4109;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Piauiense;2204;PI;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Mato-grossense;5103;MT;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paraense;1505;PA;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paranaense;4107;PR;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Piauiense;2203;PI;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Amazonense;1304;AM;Norte
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Baiano;2907;BA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Catarinense;4206;SC;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Espírito-santense;3204;ES;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Fluminense;3305;RJ;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Goiano;5205;GO;Centro-Oeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Maranhense;2105;MA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul/Sudoeste de Minas;3110;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;São Francisco Pernambucano;2602;PE;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;São José do Rio Preto;3501;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale São-Franciscano da Bahia;2902;BA;Nordeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Itajaí;4204;SC;Sul
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Mucuri;3104;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Paraíba Paulista;3513;SP;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Rio Doce;3108;MG;Sudeste
-56446;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Zona da Mata;3112;MG;Sudeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Leste Rondoniense;1102;RO;Norte
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Norte Mato-grossense;5101;MT;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Sudoeste Mato-grossense;5103;MT;Centro-Oeste
+56449;Tempestade;Perigo;2;2026-11-18 17:19:00;2026-11-19 07:20:00;2026-11-18;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
 56448;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araraquara;3505;SP;Sudeste
 56448;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araçatuba;3503;SP;Sudeste
 56448;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Assis;3510;SP;Sudeste
@@ -2702,86 +2795,635 @@
 56448;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Paraíba Paulista;3513;SP;Sudeste
 56448;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Rio Doce;3108;MG;Sudeste
 56448;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Zona da Mata;3112;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Araraquara;3505;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Araçatuba;3503;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Assis;3510;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Baixadas;3304;RJ;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Bauru;3504;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Campinas;3507;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Campo das Vertentes;3111;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Central Espírito-santense;3203;ES;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Central Mineira;3106;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Fluminense;3303;RJ;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Goiano;5203;GO;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Norte Baiano;2903;BA;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Paranaense;4102;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Paranaense;4105;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Rio-grandense;4304;RS;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Sul Baiano;2906;BA;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Paranaense;4108;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Distrito Federal;5301;DF;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Extremo Oeste Baiano;2901;BA;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Grande Florianópolis;4205;SC;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Itapetininga;3511;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Jequitinhonha;3103;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Leste Goiano;5204;GO;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Litoral Norte Espírito-santense;3202;ES;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Litoral Sul Paulista;3514;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Macro Metropolitana Paulista;3512;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Marília;3509;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Belo Horizonte;3107;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Curitiba;4110;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Porto Alegre;4305;RS;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de São Paulo;3515;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Nordeste Mato-grossense;5102;MT;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Nordeste Rio-grandense;4302;RS;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Espírito-santense;3201;ES;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Fluminense;3301;RJ;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Goiano;5201;GO;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Paranaense;4101;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Rio-grandense;4301;RS;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste de Minas;3101;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Catarinense;4202;SC;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Central Paranaense;4103;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Fluminense;3302;RJ;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Goiano;5202;GO;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Mato-grossense;5101;MT;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Pioneiro Paranaense;4104;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte de Minas;3102;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Ocidental do Tocantins;1701;TO;Norte
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste Catarinense;4201;SC;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste Paranaense;4106;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste de Minas;3109;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oriental do Tocantins;1702;TO;Norte
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Piracicaba;3506;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Presidente Prudente;3508;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Ribeirão Preto;3502;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Serrana;4203;SC;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Mato-grossense;5105;MT;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paraense;1506;PA;Norte
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paranaense;4109;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paraense;1505;PA;Norte
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paranaense;4107;PR;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Piauiense;2203;PI;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Rio-grandense;4306;RS;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Baiano;2907;BA;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Catarinense;4206;SC;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Espírito-santense;3204;ES;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Fluminense;3305;RJ;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Goiano;5205;GO;Centro-Oeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Maranhense;2105;MA;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul/Sudoeste de Minas;3110;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;São José do Rio Preto;3501;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale São-Franciscano da Bahia;2902;BA;Nordeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Itajaí;4204;SC;Sul
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Mucuri;3104;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Paraíba Paulista;3513;SP;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Rio Doce;3108;MG;Sudeste
-56447;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Zona da Mata;3112;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araraquara;3505;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Araçatuba;3503;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Assis;3510;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Bauru;3504;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Campinas;3507;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Campo das Vertentes;3111;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Central Espírito-santense;3203;ES;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Central Mineira;3106;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Amazonense;1303;AM;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Fluminense;3303;RJ;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Goiano;5203;GO;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Maranhense;2103;MA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Norte Baiano;2903;BA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Ocidental Paranaense;4102;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Oriental Paranaense;4105;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro Sul Baiano;2906;BA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Norte Piauiense;2202;PI;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Paranaense;4108;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Distrito Federal;5301;DF;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Extremo Oeste Baiano;2901;BA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Grande Florianópolis;4205;SC;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Itapetininga;3511;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Jequitinhonha;3103;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Goiano;5204;GO;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Maranhense;2104;MA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste Rondoniense;1102;RO;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Litoral Sul Paulista;3514;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Marília;3509;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Curitiba;4110;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Porto Alegre;4305;RS;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Nordeste Rio-grandense;4302;RS;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Espírito-santense;3201;ES;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Fluminense;3301;RJ;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Goiano;5201;GO;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Paranaense;4101;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste Rio-grandense;4301;RS;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Noroeste de Minas;3101;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Catarinense;4202;SC;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Central Paranaense;4103;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Fluminense;3302;RJ;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Goiano;5202;GO;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Mato-grossense;5101;MT;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Piauiense;2201;PI;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte Pioneiro Paranaense;4104;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Norte de Minas;3102;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Ocidental do Tocantins;1701;TO;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Catarinense;4201;SC;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Maranhense;2102;MA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste Paranaense;4106;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oeste de Minas;3109;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Oriental do Tocantins;1702;TO;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Piracicaba;3506;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Presidente Prudente;3508;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Ribeirão Preto;3502;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Serrana;4203;SC;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paraense;1506;PA;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paranaense;4109;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudeste Piauiense;2204;PI;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Mato-grossense;5103;MT;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paraense;1505;PA;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paranaense;4107;PR;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Piauiense;2203;PI;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Amazonense;1304;AM;Norte
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Baiano;2907;BA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Catarinense;4206;SC;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Espírito-santense;3204;ES;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Fluminense;3305;RJ;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Goiano;5205;GO;Centro-Oeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul Maranhense;2105;MA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;São Francisco Pernambucano;2602;PE;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;São José do Rio Preto;3501;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Itajaí;4204;SC;Sul
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Mucuri;3104;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Paraíba Paulista;3513;SP;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Vale do Rio Doce;3108;MG;Sudeste
+56450;Tempestade;Perigo Potencial;1;2026-11-19 00:00:00;2026-11-19 23:59:00;2026-11-19;Zona da Mata;3112;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Araraquara;3505;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Araçatuba;3503;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Assis;3510;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Baixadas;3304;RJ;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Bauru;3504;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Campinas;3507;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Campo das Vertentes;3111;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Central Espírito-santense;3203;ES;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Central Mineira;3106;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Amazonense;1303;AM;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Fluminense;3303;RJ;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Goiano;5203;GO;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Maranhense;2103;MA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Norte Baiano;2903;BA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Ocidental Paranaense;4102;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Oriental Paranaense;4105;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro Sul Baiano;2906;BA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro-Norte Piauiense;2202;PI;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Paranaense;4108;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Distrito Federal;5301;DF;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Extremo Oeste Baiano;2901;BA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Grande Florianópolis;4205;SC;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Itapetininga;3511;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Jequitinhonha;3103;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Leste Goiano;5204;GO;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Leste Maranhense;2104;MA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Leste Rondoniense;1102;RO;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Litoral Sul Paulista;3514;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Macro Metropolitana Paulista;3512;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Marília;3509;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Curitiba;4110;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Porto Alegre;4305;RS;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Salvador;2905;BA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de São Paulo;3515;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Nordeste Rio-grandense;4302;RS;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Noroeste Espírito-santense;3201;ES;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Noroeste Fluminense;3301;RJ;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Noroeste Goiano;5201;GO;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Noroeste Paranaense;4101;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Noroeste Rio-grandense;4301;RS;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Noroeste de Minas;3101;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Catarinense;4202;SC;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Central Paranaense;4103;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Fluminense;3302;RJ;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Goiano;5202;GO;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Mato-grossense;5101;MT;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Piauiense;2201;PI;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte Pioneiro Paranaense;4104;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Norte de Minas;3102;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Ocidental do Tocantins;1701;TO;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Oeste Catarinense;4201;SC;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Oeste Maranhense;2102;MA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Oeste Paranaense;4106;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Oeste de Minas;3109;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Oriental do Tocantins;1702;TO;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Piracicaba;3506;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Presidente Prudente;3508;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Ribeirão Preto;3502;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Serrana;4203;SC;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sertões Cearenses;2304;CE;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paraense;1506;PA;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paranaense;4109;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudeste Piauiense;2204;PI;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Mato-grossense;5103;MT;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paraense;1505;PA;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paranaense;4107;PR;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Piauiense;2203;PI;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Amazonense;1304;AM;Norte
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Baiano;2907;BA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Catarinense;4206;SC;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Espírito-santense;3204;ES;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Fluminense;3305;RJ;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Goiano;5205;GO;Centro-Oeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul Maranhense;2105;MA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;São Francisco Pernambucano;2602;PE;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;São José do Rio Preto;3501;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Vale do Itajaí;4204;SC;Sul
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Vale do Mucuri;3104;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Vale do Paraíba Paulista;3513;SP;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Vale do Rio Doce;3108;MG;Sudeste
+56451;Tempestade;Perigo Potencial;1;2026-11-19 08:45:00;2026-11-19 23:59:00;2026-11-19;Zona da Mata;3112;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Central Espírito-santense;3203;ES;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Central Mineira;3106;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Centro Sul Baiano;2906;BA;Nordeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Extremo Oeste Baiano;2901;BA;Nordeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Jequitinhonha;3103;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Noroeste Espírito-santense;3201;ES;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Noroeste Fluminense;3301;RJ;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Norte de Minas;3102;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Sul Baiano;2907;BA;Nordeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Sul Espírito-santense;3204;ES;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Vale do Mucuri;3104;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Vale do Rio Doce;3108;MG;Sudeste
+56452;Tempestade;Perigo;2;2026-11-19 08:50:00;2026-11-19 23:59:00;2026-11-19;Zona da Mata;3112;MG;Sudeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Araçatuba;3503;SP;Sudeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Centro Ocidental Paranaense;4102;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Centro-Sul Paranaense;4108;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Grande Florianópolis;4205;SC;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Nordeste Rio-grandense;4302;RS;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Noroeste Paranaense;4101;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Noroeste Rio-grandense;4301;RS;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Norte Catarinense;4202;SC;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Norte Central Paranaense;4103;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Oeste Catarinense;4201;SC;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Oeste Paranaense;4106;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Presidente Prudente;3508;SP;Sudeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Serrana;4203;SC;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Sudeste Paranaense;4109;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Sudoeste Paranaense;4107;PR;Sul
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Sul Goiano;5205;GO;Centro-Oeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56453;Tempestade;Perigo;2;2026-11-19 08:57:00;2026-11-19 23:59:00;2026-11-19;Vale do Itajaí;4204;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Araraquara;3505;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Araçatuba;3503;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Assis;3510;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Baixadas;3304;RJ;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Bauru;3504;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Campinas;3507;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Campo das Vertentes;3111;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Central Espírito-santense;3203;ES;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Central Mineira;3106;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Fluminense;3303;RJ;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Goiano;5203;GO;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Norte Baiano;2903;BA;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Paranaense;4102;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Paranaense;4105;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Rio-grandense;4304;RS;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro Sul Baiano;2906;BA;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Paranaense;4108;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Distrito Federal;5301;DF;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Extremo Oeste Baiano;2901;BA;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Grande Florianópolis;4205;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Itapetininga;3511;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Jequitinhonha;3103;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Leste Goiano;5204;GO;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Litoral Sul Paulista;3514;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Macro Metropolitana Paulista;3512;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Marília;3509;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Curitiba;4110;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Porto Alegre;4305;RS;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de São Paulo;3515;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Nordeste Rio-grandense;4302;RS;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Espírito-santense;3201;ES;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Fluminense;3301;RJ;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Goiano;5201;GO;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Paranaense;4101;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste Rio-grandense;4301;RS;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Noroeste de Minas;3101;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Catarinense;4202;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Central Paranaense;4103;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Fluminense;3302;RJ;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Goiano;5202;GO;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Mato-grossense;5101;MT;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte Pioneiro Paranaense;4104;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Norte de Minas;3102;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Ocidental do Tocantins;1701;TO;Norte
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste Catarinense;4201;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste Paranaense;4106;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oeste de Minas;3109;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Oriental do Tocantins;1702;TO;Norte
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Piracicaba;3506;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Presidente Prudente;3508;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Ribeirão Preto;3502;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Serrana;4203;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paraense;1506;PA;Norte
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paranaense;4109;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paraense;1505;PA;Norte
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paranaense;4107;PR;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Piauiense;2203;PI;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Rio-grandense;4306;RS;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Baiano;2907;BA;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Catarinense;4206;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Espírito-santense;3204;ES;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Fluminense;3305;RJ;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Goiano;5205;GO;Centro-Oeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul Maranhense;2105;MA;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;São José do Rio Preto;3501;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Itajaí;4204;SC;Sul
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Mucuri;3104;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Paraíba Paulista;3513;SP;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Vale do Rio Doce;3108;MG;Sudeste
+56454;Tempestade;Perigo Potencial;1;2026-11-20 00:00:00;2026-11-20 23:59:00;2026-11-20;Zona da Mata;3112;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Araraquara;3505;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Araçatuba;3503;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Assis;3510;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Baixadas;3304;RJ;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Bauru;3504;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Campinas;3507;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Campo das Vertentes;3111;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Central Espírito-santense;3203;ES;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Central Mineira;3106;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Amazonense;1303;AM;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Fluminense;3303;RJ;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Goiano;5203;GO;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Maranhense;2103;MA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Norte Baiano;2903;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Paranaense;4102;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Rio-grandense;4303;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Paranaense;4105;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Rio-grandense;4304;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro Sul Baiano;2906;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Paranaense;4108;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Distrito Federal;5301;DF;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Extremo Oeste Baiano;2901;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Grande Florianópolis;4205;SC;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Itapetininga;3511;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Jequitinhonha;3103;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Leste Goiano;5204;GO;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Leste Maranhense;2104;MA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Leste Rondoniense;1102;RO;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Litoral Sul Paulista;3514;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Macro Metropolitana Paulista;3512;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Marília;3509;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Curitiba;4110;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Porto Alegre;4305;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Salvador;2905;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de São Paulo;3515;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Nordeste Baiano;2904;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Nordeste Rio-grandense;4302;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Noroeste Espírito-santense;3201;ES;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Noroeste Fluminense;3301;RJ;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Noroeste Goiano;5201;GO;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Noroeste Paranaense;4101;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Noroeste Rio-grandense;4301;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Noroeste de Minas;3101;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte Catarinense;4202;SC;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte Central Paranaense;4103;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte Fluminense;3302;RJ;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte Goiano;5202;GO;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte Mato-grossense;5101;MT;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte Pioneiro Paranaense;4104;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Norte de Minas;3102;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Ocidental do Tocantins;1701;TO;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Oeste Catarinense;4201;SC;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Oeste Maranhense;2102;MA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Oeste Paranaense;4106;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Oeste de Minas;3109;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Oriental do Tocantins;1702;TO;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Pantanais Sul Mato-grossense;5001;MS;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Piracicaba;3506;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Presidente Prudente;3508;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Ribeirão Preto;3502;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Serrana;4203;SC;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paraense;1506;PA;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paranaense;4109;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudeste Piauiense;2204;PI;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudeste Rio-grandense;4307;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Mato-grossense;5103;MT;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paraense;1505;PA;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paranaense;4107;PR;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Piauiense;2203;PI;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Rio-grandense;4306;RS;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Amazonense;1304;AM;Norte
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Baiano;2907;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Catarinense;4206;SC;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Espírito-santense;3204;ES;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Fluminense;3305;RJ;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Goiano;5205;GO;Centro-Oeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul Maranhense;2105;MA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;São José do Rio Preto;3501;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Vale do Itajaí;4204;SC;Sul
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Vale do Mucuri;3104;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Vale do Paraíba Paulista;3513;SP;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Vale do Rio Doce;3108;MG;Sudeste
+56455;Tempestade;Perigo Potencial;1;2026-11-20 09:06:00;2026-11-20 23:59:00;2026-11-20;Zona da Mata;3112;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Central Espírito-santense;3203;ES;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Central Mineira;3106;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Centro Sul Baiano;2906;BA;Nordeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Extremo Oeste Baiano;2901;BA;Nordeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Jequitinhonha;3103;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Leste Goiano;5204;GO;Centro-Oeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Noroeste Espírito-santense;3201;ES;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Noroeste de Minas;3101;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Norte Fluminense;3302;RJ;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Norte de Minas;3102;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Sul Baiano;2907;BA;Nordeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Sul Espírito-santense;3204;ES;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Vale do Mucuri;3104;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Vale do Rio Doce;3108;MG;Sudeste
+56456;Tempestade;Perigo;2;2026-11-20 09:10:00;2026-11-20 23:59:00;2026-11-20;Zona da Mata;3112;MG;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Assis;3510;SP;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Bauru;3504;SP;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Paranaense;4102;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Centro Ocidental Rio-grandense;4303;RS;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Paranaense;4105;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Centro Oriental Rio-grandense;4304;RS;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Centro-Sul Paranaense;4108;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Grande Florianópolis;4205;SC;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Itapetininga;3511;SP;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Litoral Sul Paulista;3514;SP;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Marília;3509;SP;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Curitiba;4110;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Metropolitana de Porto Alegre;4305;RS;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Nordeste Rio-grandense;4302;RS;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Noroeste Paranaense;4101;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Noroeste Rio-grandense;4301;RS;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Norte Catarinense;4202;SC;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Norte Central Paranaense;4103;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Norte Pioneiro Paranaense;4104;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Oeste Catarinense;4201;SC;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Oeste Paranaense;4106;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Presidente Prudente;3508;SP;Sudeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Serrana;4203;SC;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Sudeste Paranaense;4109;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Paranaense;4107;PR;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Sudoeste Rio-grandense;4306;RS;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Sul Catarinense;4206;SC;Sul
+56457;Tempestade;Perigo;2;2026-11-20 09:16:00;2026-11-20 23:59:00;2026-11-20;Vale do Itajaí;4204;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Araraquara;3505;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Araçatuba;3503;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Assis;3510;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Baixadas;3304;RJ;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Baixo Amazonas;1501;PA;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Bauru;3504;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Campinas;3507;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Campo das Vertentes;3111;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Central Espírito-santense;3203;ES;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Central Mineira;3106;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Amazonense;1303;AM;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Fluminense;3303;RJ;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Goiano;5203;GO;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Maranhense;2103;MA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Norte Baiano;2903;BA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Ocidental Paranaense;4102;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Oriental Paranaense;4105;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro Sul Baiano;2906;BA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Centro-Sul Paranaense;4108;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Distrito Federal;5301;DF;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Extremo Oeste Baiano;2901;BA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Grande Florianópolis;4205;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Itapetininga;3511;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Jequitinhonha;3103;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Leste Goiano;5204;GO;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Leste Rondoniense;1102;RO;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Litoral Sul Paulista;3514;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Macro Metropolitana Paulista;3512;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Madeira-Guaporé;1101;RO;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Marajó;1502;PA;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Marília;3509;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Metropolitana de Curitiba;4110;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Metropolitana de Porto Alegre;4305;RS;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Metropolitana de São Paulo;3515;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Nordeste Rio-grandense;4302;RS;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Noroeste Espírito-santense;3201;ES;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Noroeste Fluminense;3301;RJ;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Noroeste Goiano;5201;GO;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Noroeste Paranaense;4101;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Noroeste Rio-grandense;4301;RS;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Noroeste de Minas;3101;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Amazonense;1301;AM;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Catarinense;4202;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Central Paranaense;4103;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Fluminense;3302;RJ;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Goiano;5202;GO;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Mato-grossense;5101;MT;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte Pioneiro Paranaense;4104;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Norte de Minas;3102;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Ocidental do Tocantins;1701;TO;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Oeste Catarinense;4201;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Oeste Maranhense;2102;MA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Oeste Paranaense;4106;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Oeste de Minas;3109;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Oriental do Tocantins;1702;TO;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Piracicaba;3506;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Presidente Prudente;3508;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Ribeirão Preto;3502;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Serrana;4203;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudeste Paraense;1506;PA;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudeste Paranaense;4109;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudoeste Amazonense;1302;AM;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudoeste Paraense;1505;PA;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudoeste Paranaense;4107;PR;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudoeste Piauiense;2203;PI;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Amazonense;1304;AM;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Baiano;2907;BA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Catarinense;4206;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Espírito-santense;3204;ES;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Fluminense;3305;RJ;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Goiano;5205;GO;Centro-Oeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul Maranhense;2105;MA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul de Roraima;1402;RR;Norte
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;São José do Rio Preto;3501;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Vale do Itajaí;4204;SC;Sul
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Vale do Mucuri;3104;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Vale do Paraíba Paulista;3513;SP;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Vale do Rio Doce;3108;MG;Sudeste
+56458;Tempestade;Perigo Potencial;1;2026-11-21 09:25:00;2026-11-21 23:59:00;2026-11-21;Zona da Mata;3112;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Araraquara;3505;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Araçatuba;3503;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Assis;3510;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Baixadas;3304;RJ;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Baixo Amazonas;1501;PA;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Bauru;3504;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Campinas;3507;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Campo das Vertentes;3111;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Central Espírito-santense;3203;ES;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Central Mineira;3106;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Amazonense;1303;AM;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Fluminense;3303;RJ;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Goiano;5203;GO;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Maranhense;2103;MA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Norte Baiano;2903;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Norte de Mato Grosso do Sul;5002;MS;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Ocidental Paranaense;4102;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Ocidental Rio-grandense;4303;RS;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Oriental Paranaense;4105;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Oriental Rio-grandense;4304;RS;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro Sul Baiano;2906;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro-Sul Mato-grossense;5104;MT;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Centro-Sul Paranaense;4108;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Distrito Federal;5301;DF;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Extremo Oeste Baiano;2901;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Grande Florianópolis;4205;SC;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Itapetininga;3511;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Jequitinhonha;3103;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Leste Goiano;5204;GO;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Leste Rondoniense;1102;RO;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Leste de Mato Grosso do Sul;5003;MS;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Litoral Norte Espírito-santense;3202;ES;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Litoral Sul Paulista;3514;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Macro Metropolitana Paulista;3512;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Madeira-Guaporé;1101;RO;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Marajó;1502;PA;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Marília;3509;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Metropolitana de Belo Horizonte;3107;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Metropolitana de Curitiba;4110;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Metropolitana de Porto Alegre;4305;RS;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Metropolitana de Salvador;2905;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Metropolitana de São Paulo;3515;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Metropolitana do Rio de Janeiro;3306;RJ;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Nordeste Baiano;2904;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Nordeste Mato-grossense;5102;MT;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Nordeste Paraense;1504;PA;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Nordeste Rio-grandense;4302;RS;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Noroeste Espírito-santense;3201;ES;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Noroeste Fluminense;3301;RJ;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Noroeste Goiano;5201;GO;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Noroeste Paranaense;4101;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Noroeste Rio-grandense;4301;RS;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Noroeste de Minas;3101;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Amazonense;1301;AM;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Catarinense;4202;SC;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Central Paranaense;4103;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Fluminense;3302;RJ;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Goiano;5202;GO;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Mato-grossense;5101;MT;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte Pioneiro Paranaense;4104;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Norte de Minas;3102;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Ocidental do Tocantins;1701;TO;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Oeste Catarinense;4201;SC;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Oeste Maranhense;2102;MA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Oeste Paranaense;4106;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Oeste de Minas;3109;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Oriental do Tocantins;1702;TO;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Piracicaba;3506;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Presidente Prudente;3508;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Ribeirão Preto;3502;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Serrana;4203;SC;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudeste Mato-grossense;5105;MT;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudeste Paraense;1506;PA;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudeste Paranaense;4109;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudoeste Amazonense;1302;AM;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudoeste Paraense;1505;PA;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudoeste Paranaense;4107;PR;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudoeste Piauiense;2203;PI;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudoeste Rio-grandense;4306;RS;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sudoeste de Mato Grosso do Sul;5004;MS;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Amazonense;1304;AM;Norte
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Baiano;2907;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Catarinense;4206;SC;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Espírito-santense;3204;ES;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Fluminense;3305;RJ;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Goiano;5205;GO;Centro-Oeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul Maranhense;2105;MA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Sul/Sudoeste de Minas;3110;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;São José do Rio Preto;3501;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Triângulo Mineiro/Alto Paranaíba;3105;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Vale São-Franciscano da Bahia;2902;BA;Nordeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Vale do Itajaí;4204;SC;Sul
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Vale do Mucuri;3104;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Vale do Paraíba Paulista;3513;SP;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Vale do Rio Doce;3108;MG;Sudeste
+56459;Tempestade;Perigo Potencial;1;2026-11-22 09:33:00;2026-11-22 23:59:00;2026-11-22;Zona da Mata;3112;MG;Sudeste

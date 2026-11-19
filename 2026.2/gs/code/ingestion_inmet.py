@@ -1,3 +1,12 @@
+# =============================================================================
+# Turma: 1TSCOR  |  Projeto: ClimaLink  |  Grupo: Datalorian
+# Integrantes (ordem alfabética):
+#   Gustavo Varadi - RM575461
+#   Petrick Mateus - RM575301
+# -----------------------------------------------------------------------------
+# Executar a partir da pasta raiz do repositório (a que contém "2026.2").
+# Todos os arquivos gerados pelos scripts ficam em ./2026.2/gs/data
+# =============================================================================
 """
 ClimaLink — Coleta e tratamento dos avisos meteorológicos do INMET (RSS)
 =========================================================================
@@ -15,11 +24,11 @@ O feed só mostra os avisos recentes. Por isso o script ACUMULA o histórico:
 a cada execução, junta o que já foi salvo com o que chegou e remove duplicados.
 
 Uso:
-    python inmet_avisos.py                       # baixa o feed e salva CSV em ./dados/inmet
-    python inmet_avisos.py --formato parquet     # salva em Parquet
-    python inmet_avisos.py --saida C:/climalink/dados
-    python inmet_avisos.py --arquivo avisos.xml  # lê um XML salvo (teste offline)
-    python inmet_avisos.py --sem-ibge            # não consulta a API do IBGE
+    python ingestion_inmet.py                    # baixa o feed e salva CSV em ./2026.2/gs/data/inmet
+    python ingestion_inmet.py --formato parquet  # salva em Parquet
+    python ingestion_inmet.py --arquivo ./2026.2/gs/data/inmet/raw/inmet_avisos_rss_2026-11-18.xml
+                                                 # reprocessa o recorte baixado em 18/11/2026 (base do item 4)
+    python ingestion_inmet.py --sem-ibge         # não consulta a API do IBGE
 
 Dependências: pandas, requests (e pyarrow, se usar Parquet)
     pip install pandas requests pyarrow
@@ -40,11 +49,12 @@ import pandas as pd
 import requests
 
 # ----------------------------------------------------------------------------
-# Configuração — troque aqui o destino quando migrar para nuvem/banco
+# Configuração
 # ----------------------------------------------------------------------------
 URL_RSS = "https://apiprevmet3.inmet.gov.br/avisos/rss"
 URL_IBGE_MESO = "https://servicodados.ibge.gov.br/api/v1/localidades/mesorregioes"
-PASTA_SAIDA_PADRAO = Path("./2026.2/gs/data") / "inmet"
+PATH = Path(__file__).parent.parent          # pasta única de dados do projetoo
+PASTA_SAIDA_PADRAO = PATH / "data" / "inmet"
 FORMATO_PADRAO = "csv"  # "csv" ou "parquet"
 
 NIVEL_SEVERIDADE = {"Perigo Potencial": 1, "Perigo": 2, "Grande Perigo": 3}
@@ -80,6 +90,16 @@ def _limpar_html(texto: str) -> str:
     texto = _RE_TAGS.sub("", texto or "")
     texto = html.unescape(texto)
     return re.sub(r"\s+", " ", texto).strip()
+
+
+def data_do_feed(xml_bytes: bytes) -> datetime | None:
+    """Data de publicação do feed (<channel><pubDate>), usada como data de coleta
+    quando um XML salvo é reprocessado com --arquivo."""
+    try:
+        texto = ET.fromstring(xml_bytes).findtext("channel/pubDate")
+        return parsedate_to_datetime(texto).replace(tzinfo=None)
+    except (TypeError, ValueError, ET.ParseError):
+        return None
 
 
 def ler_itens(xml_bytes: bytes) -> list[dict]:
@@ -285,8 +305,9 @@ def main() -> None:
     p.add_argument("--sem-ibge", action="store_true", help="não buscar UF/região no IBGE")
     args = p.parse_args()
 
-    coletado_em = datetime.now().replace(microsecond=0)
     xml_bytes = args.arquivo.read_bytes() if args.arquivo else baixar_rss()
+    # data de coleta: agora (download) ou a data do próprio feed (XML salvo)
+    coletado_em = (data_do_feed(xml_bytes) if args.arquivo else None) or datetime.now().replace(microsecond=0)
     itens = ler_itens(xml_bytes)
     avisos = tratar(itens, coletado_em)
     if avisos.empty:

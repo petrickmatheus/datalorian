@@ -1,3 +1,12 @@
+# =============================================================================
+# Turma: 1TSCOR  |  Projeto: ClimaLink  |  Grupo: Datalorian
+# Integrantes (ordem alfabética):
+#   Gustavo Varadi - RM575461
+#   Petrick Mateus - RM575301
+# -----------------------------------------------------------------------------
+# Executar a partir da pasta raiz do repositório (a que contém "2026.2").
+# Todos os arquivos gerados pelos scripts ficam em ./2026.2/gs/data
+# =============================================================================
 """
 ClimaLink — Bases SINTÉTICAS relacionadas aos avisos REAIS do INMET
 ====================================================================
@@ -30,20 +39,21 @@ Chaves de ligação entre as bases e com o INMET:
 Todos os valores numéricos são fictícios. Códigos IBGE e nomes de municípios
 são reais; populações são aproximadas (ordem de grandeza do Censo 2022).
 
-Uso:  python gerar_bases_sinteticas.py [--saida pasta] [--formato csv|parquet]
+Uso:  python synthetic_data.py [--saida pasta] [--formato csv|parquet]
 """
 
 from __future__ import annotations
 
 import argparse
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
 SEMENTE = 42
-PASTA_SAIDA_PADRAO = Path("./2026.2/gs/data") / "sinteticos"
+PATH = Path(__file__).parent.parent          # pasta única de dados do projetoo
+PASTA_SAIDA_PADRAO = PATH / "data" / "sinteticos"
 
 # ----------------------------------------------------------------------------
 # Municípios (código IBGE real) — mesorregião escrita como no feed do INMET
